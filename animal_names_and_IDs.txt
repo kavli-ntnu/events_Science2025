@@ -1,0 +1,18 @@
+
+Animals all had 5 digit numeric IDs and also a pet name.
+
+Some data files use the pet name and we therefore provide this lookup table.
+
+Pet names were assigned in alphabetical order and follow a common theme: tree names.
+
+This alphabetical order corresponds to the chronological order of implants.
+
+26863 Ash       (LEC)
+26965 Bubinga   (LEC)
+26955 Cedar     (LEC)
+27284 Douglas   (LEC, MEC)
+27285 Elm       (LEC, MEC, CA1)
+27963 Hemlock   (LEC, MEC, CA1)
+28003 Ironwood  (LEC, MEC, CA1)
+29630 Juniper   (LEC, MEC)
+29629 Karri     (LEC, CA1)
