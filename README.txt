@@ -3,7 +3,7 @@ This repository contains analysis code and pre-processed data for the figures as
 
 'Event structure sculpts neural population dynamics in the lateral entorhinal cortex'
 
-Kanter et al., Science XXX, XXX (2025) [DOI: XXX]
+Kanter et al., 2025. DOI: XXX
 
 The repository contains:
 - Code to plot main and supplementary figures of the paper.
